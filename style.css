@@ -1,0 +1,31 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.skills {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+
+.pb-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.mini-hero {
+    background-color: #70E0D7
+}
+
+.d-block {
+    border-radius: 50%;
+}
